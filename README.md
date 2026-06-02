@@ -62,6 +62,9 @@ This project simulates a real-world billing system used in small and medium busi
 ### Data Storage  
 ![Data](Data-Storage.jpg)
 
+### Outlook Email Automation
+![Outlook Email](Outlook-Email.jpg)
+
 ---
 
 ## 📧 Outlook Email Automation
